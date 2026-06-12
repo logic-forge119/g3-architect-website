@@ -8,3 +8,36 @@
   font-weight: 400;
   font-style: normal;
 }
+/* share style */
+.dark-1{
+color: #131313;
+}
+.dark-2{
+color: #424242;
+}
+.dark-3{
+color: #727272;
+}
+.display-flex{
+     display: flex;
+}
+.bg-light{
+    background-color: rgba(255, 144, 14, 0.1);
+}
+/* header style */
+/* navbar related style */
+.navbar{
+    justify-content: space-between;
+}
+.nav-item{
+   list-style: none;
+   margin-right: 30px;
+
+}
+.nav-link{
+    text-decoration: none;
+}
+.navbar,banner{
+    margin: 0 auto;
+    max-width: 1440px;
+}
